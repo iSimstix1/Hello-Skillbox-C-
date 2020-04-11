@@ -1,4 +1,5 @@
 #include <iostream>
+#include <locale>
 
 // Вызывает функцию std::cout
 void print() {
